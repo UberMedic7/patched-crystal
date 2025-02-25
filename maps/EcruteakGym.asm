@@ -304,7 +304,7 @@ MortyRematchAskText:
 	
 	para "How about you"
 	line "show me how strong"
-	cont "is this bond?"
+	cont "this bond is?"
 	done
 	
 Morty_RematchDefeat:

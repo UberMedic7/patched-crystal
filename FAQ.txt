@@ -18,8 +18,8 @@ as intented, item working correctly, no Arbitrary Code Execution, no battle glit
 You can obtain all 251 pokemon without the need to do trades with other people, version exclusives can now
 be found in the wild and certain evolution methods have been altered. (More info below)
 
-The time when the sun rises and sets has been tweaked to logical ranges so that players
-can take advantage out of all three parts of the day in the game easier.
+The time when the sun rises and sets has been tweaked so that players
+can take advantage out of all three parts of the day in the game.
 
 TMs are now infinite use.
 
@@ -33,18 +33,19 @@ Catching pokemon yields EXP to pokemon that took part in the battle like in late
 
 Berry and apricorn trees now drop between 1 to 5 berries/apricorns.
 
-Kurt will now immediately make balls so you dont need to wait an entire day for them.
+Kurt will make balls instantly so you dont need to wait an entire day for them.
 
 The Lucky Number Show now occurs daily instead of weekly.
 
 The Trainer House battle no longer has a daily limit.
 
-The move tutor in Goldenrod City now also appears every Monday.
+The move tutor in Goldenrod City appears every Monday in addition to his usual schedule.
 
 You can challenge all Gym Leaders to a rematch as many times as you want after unlocking MT. Silver.
+
 Both Gym Leaders and the Elite Four now have stronger teams for rematches much like the remakes.
 
-The levels of teams regular trainers use in rematches after you complete the Power Plant quest now match the highest possible in the remakes
+The levels of teams regular trainers use in rematches after you complete the Power Plant quest now match the highest possible in the remakes.
 
 The trainer card now includes an extra page for Kanto badges and all 16 badges are now shown in color.
 
@@ -54,12 +55,11 @@ You can now choose one of many unique colors for your Pokedex UI in its SELECT m
 
 After encountering the legendary beasts at the Burnt Tower, Entei and Raikou are registered as SEEN on the Pokedex.
 
-All 251 pokemon now have uniquely colored sprites in menus and the overworld.
-Shiny variants and shiny egg included.
+All 251 pokemon now have uniquely colored sprites in menus and the overworld, shiny variants and shiny egg included.
 
-You are able to release EGGs via the PC.
+You are able to release EGGs.
 
-An extra text speed option "Instant" is added
+An extra text speed option "Instant" is added.
 
 Both the Battle Tower and Buena's Password feature additional rewards.
 
@@ -71,9 +71,9 @@ Smashing rocks now has a chance to give you certain items, including fossils. (M
 
 Easily change the Real Time Clock by pressing DOWN + B on the title screen.
 
-Weather conditions in battle are now shown if active via an appropriate icon in the move selection window.
+Weather conditions in battle are now shown if active via an appropriate icon in the move selection menu.
 
-Time of day status is also shown with an icon in the main battle window.
+Time of day status is also shown with an icon in the main battle menu.
 
 A pocket PC is given to you as a reward from the programmer in the Celadon Mansion after completing the Pokedex.
 
@@ -104,7 +104,7 @@ Protein x5
 Iron x5
 Carbos x5
 Calcium x5
-Rare Candy x5 
+Rare Candy x5
 Nugget x5
 PP Up x5
 Dire Hit x5
@@ -125,14 +125,14 @@ be desynchronization/corruption due to these changes.
 
 -What about other kinds of compatibility?
 
-PPC can be linked with both Stadium games just fine either on real hardware or emulated versions.
+PPC can be linked with both Stadium games just fine either on real hardware or emulation.
 Save editors like PokeHex or PKSM still work, although certain pokemon will be marked as "illegal" considering the new encounter and evolution methods.
 PPC saves are also compatible with certain features hosted on the bluemoonfalls.com website.
 
 -When i check my items in PokeHex i get an invalid item warning and/or when i do the same in the Stadium games i carry a "Teru-Sama" item, whats that about?
 
 You probably carry the new "Link Cord" item or the new "Pocket PC" key item. Since these items dont exist in the original game, the instances above treat them
-as the original "Teru-Sama" item which is nothing but a memory placeholder with no actual use so be wary of that if you tinker with your saves through external programs.
+as the original "Teru-Sama" item which is nothing but a memory placeholder with no actual use so be wary of that.
 
 -I lost my Pocket PC key item, how can i get it back?
 
@@ -140,7 +140,7 @@ You can get a new one by simply talking to the Programmer in Celadon Mansion.
 
 -What else you got in store for us?
 
-Right now, i consider this romhack "complete" The initial goal of this project was to create "my dream version of Crystal" and it
+Right now, i consider this romhack "complete" The initial goal of this project was to create my dream version of Crystal and it
 reached that status but new vanilla-friendly features, tweaks or maintenance updates are not off the table.
 
 -Why updates roll in such irregular rate?

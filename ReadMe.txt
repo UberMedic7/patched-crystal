@@ -17,6 +17,14 @@ https://discord.com/invite/5Xu54kDeJS
 
 ~~~Retail~~~
 
+~~3.13a~~
+
+The "CREDITS" selection on the main menu is now the "ABOUT" selection
+
+Yet more proofreading on Gym Leader dialog
+
+Updated the outdoor sprite system to prevent incorrect NPC sprites in the overworld
+
 ~~3.13~~
 
 The move tutor in Goldenrod City now also appears every Monday
@@ -35,7 +43,7 @@ The Ghost/Dark type scaling swap patch has been ommited from this release
 
 Fixed a bug where Belly Drum would cause the user to faint instead of halving their HP
 
-Changed the pokemon that appears on the CREDITS page
+Changed the pokemon that appears on the CREDITS menu
 
 ~~3.12b~~
 
@@ -43,7 +51,7 @@ Fixed a bug where if you refuse to get an EGG from the Day Care, no new EGG woul
 
 Fixed a bug where the options menu failed to clear joypad state on initialization
 
-You can now see the romhack version number in the new CREDITS option on the Main Menu
+You can now see the romhack version number in the new CREDITS selection on the Main Menu
 
 If you somehow lose the Pocket PC item, speak with the Programmer at Celadon Mansion to get the item again
 
@@ -348,7 +356,7 @@ to teach your pokemon forgotten moves! (Thanks to TPP, Polished Crystal and Anot
 
 -Fixed a bug where using Surf to travel through water would crash the game
 
--Times of day changed back again to the values bellow:
+-Times of day changed back again to the values below:
 Morning: 06:00 - 12:59
 Day: 13:00 - 19:59
 Night: 20:00 - 05:59

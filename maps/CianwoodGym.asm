@@ -260,7 +260,7 @@ ChuckAfterText:
 ChuckRematchAskText:
 	text "Welcome back!"
 	line "I hope you're"
-	cont "not getting rusty"
+	cont "not getting rusty."
 
 	para "Lets spar now!"
 	done

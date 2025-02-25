@@ -69,7 +69,7 @@ MainMenu:
 	db "CONTINUE@"
 	db "NEW GAME@"
 	db "OPTION@"
-	db "CREDITS@"
+	db "ABOUT@"
 	db "MYSTERY GIFT@"
 	db "MOBILE@"
 	db "MOBILE STUDIUM@"

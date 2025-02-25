@@ -1,33 +1,33 @@
-This is list of encounters that are added and/or adjusted and how certain pokemon evolve now.
+This is a list of encounters that are added and/or adjusted and how certain pokemon evolve.
 
 
 ~~Improved Encounters~~
 
-Skarmory can now be found during the day at:
+Skarmory can be found during the day at:
 Route 38
 
-Smeargle can now be found during the day at:
+Smeargle can be found during the day at:
 Sprout Tower 3F
 
-Mantine can now be found at:
+Mantine can be found at:
 Cianwood, Olivine City (Surf)
 
-Corsola can now be found at:
+Corsola can be found at:
 Route 34, Olivine City (Surf)
 
-Larvitar can now be found rarely during the day at:
+Larvitar can be found rarely during the day at:
 Route 42
 
-Misdreavus can now be found rarely during the night at:
+Misdreavus can be found rarely during the night at:
 Sprout/Tin Tower, Route 31, 32
 
-Houndour can now be found rarely during the day and mostly during the night at:
+Houndour can be found rarely during the day and mostly during the night at:
 Route 36, 37
 
-Murkrow can now be found during the night at:
+Murkrow can be found during the night at:
 Route 38 
 
-Slugma can now be found during the day at:
+Slugma can be found during the day at:
 Burned Tower B1F 
 
 
@@ -45,7 +45,7 @@ Route 32, 42, 43
 Girafarig can be found rarely during the morning and day at:
 Route 43 
 
-Remoraid and Octillery can mostly be found at bodies of water using both rods and SURF.
+Remoraid and Octillery can be found at bodies of water using both rods and SURF.
 Swarms still occur.
 
 Chikorita can be found only during morning at:
@@ -86,22 +86,20 @@ Ice Path
 Mewtwo can be found at:
 Silver Cave
 
-Mew is now found in the 4th secret Unown inscription chamber at the Ruins of Alph. To access this chamber
+Mew is found in the 4th secret Unown inscription chamber at the Ruins of Alph. To access this chamber
 you need to have Ho-Oh in your party.
 
 
 ~~Evolutions~~
 
-***These methods are subject to change***
-
 Haunter, Machoke, Graveler, Kadabra, Seadra, Onix, Scyther evolve by using a Link Cord
-
-Eevee evolves into Espeon by using a Sun Stone
-
-Eevee evolves into Umbreon by using a Moon Stone
 
 Slowpoke evolves into Slowking by using a Link Cord
 
 Poliwhirl evolves into Politoed by using a Link Cord
 
-Porygon evolves into Porygon2 by using Up-grade
+Eevee evolves into Espeon by using a Sun Stone
+
+Eevee evolves into Umbreon by using a Moon Stone
+
+Porygon evolves into Porygon2 by using an Up-grade

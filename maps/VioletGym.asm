@@ -225,10 +225,11 @@ FalknerFightDoneText:
 FalknerRematchAskText:
 	text "Greetings."
 	line "While you were"
-	cont "away i was doing"
+	cont "away I was doing"
 	
-	para "my best to improve"
-	line "Care to show you?"
+	para "my best to"
+	line "improve. Care to"
+	cont "show you?"
 	done
 	
 Falkner_RematchDefeat:
