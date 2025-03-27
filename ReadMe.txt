@@ -17,6 +17,12 @@ https://discord.com/invite/5Xu54kDeJS
 
 ~~~Retail~~~
 
+~~3.13b~~
+
+Tweaked encounter rates of certain pokemon - subject to change
+
+You can now change the in-game time by pressing A while on the Pokegear Calendar menu, the Title Screen method still remains
+
 ~~3.13a~~
 
 The "CREDITS" selection on the main menu is now the "ABOUT" selection

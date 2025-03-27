@@ -463,8 +463,11 @@ PokegearClock_Joypad:
 	call .UpdateClock
 	ld hl, hJoyLast
 	ld a, [hl]
-	and A_BUTTON | B_BUTTON | START | SELECT
+	and B_BUTTON | START | SELECT
 	jr nz, .quit
+	ld a, [hl]
+ 	and A_BUTTON
+ 	jr nz, .clockreset
 	ld a, [hl]
 	and D_RIGHT
 	ret z
@@ -474,6 +477,11 @@ PokegearClock_Joypad:
 	ld c, POKEGEARSTATE_MAPCHECKREGION
 	ld b, POKEGEARCARD_MAP
 	jr .done
+
+.clockreset
+ 	farcall RestartClock
+ 	call InitPokegearTilemap ; needed incase exit without setting the time
+ 	jr .done
 
 .no_map_card
 	ld a, [wPokegearFlags]

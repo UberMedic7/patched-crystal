@@ -37,6 +37,7 @@ ENDM
 
 RestartClock:
 ; If we're here, we had an RTC overflow.
+	farcall BlankScreen
 	ld hl, .ClockTimeMayBeWrongText
 	call PrintText
 	ld hl, wOptions

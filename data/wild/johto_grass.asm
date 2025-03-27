@@ -16,7 +16,7 @@ JohtoGrassWildMons:
 	db 3, RATTATA
 	db 4, RATTATA
 	db 5, RATTATA
-	db 3, RATTATA
+	db 3, SMEARGLE
 	db 6, SMEARGLE ;RATTATA
 	db 5, RATTATA
 	db 5, RATTATA
@@ -24,9 +24,9 @@ JohtoGrassWildMons:
 	db 3, GASTLY
 	db 4, GASTLY
 	db 5, GASTLY
-	db 3, RATTATA
-	db 6, MISDREAVUS ;GASTLY
-	db 5, RATTATA
+	db 3, MISDREAVUS
+	db 6, GASTLY
+	db 5, MISDREAVUS
 	db 5, RATTATA
 	end_grass_wildmons
 
@@ -44,7 +44,7 @@ JohtoGrassWildMons:
 	db 3, RATTATA
 	db 4, RATTATA
 	db 5, RATTATA
-	db 3, RATTATA
+	db 3, SMEARGLE
 	db 6, SMEARGLE ;RATTATA
 	db 5, RATTATA
 	db 5, RATTATA
@@ -52,9 +52,9 @@ JohtoGrassWildMons:
 	db 3, GASTLY
 	db 4, GASTLY
 	db 5, GASTLY
-	db 3, RATTATA
-	db 6, MISDREAVUS ;GASTLY
-	db 5, RATTATA
+	db 3, MISDREAVUS
+	db 6, GASTLY
+	db 5, MISDREAVUS
 	db 5, RATTATA
 	end_grass_wildmons
 
@@ -79,10 +79,10 @@ JohtoGrassWildMons:
 	; nite
 	db 20, GASTLY
 	db 21, GASTLY
-	db 22, MISDREAVUS ;GASTLY
+	db 22, GASTLY
 	db 22, MISDREAVUS ;RATTATA
 	db 23, RATTATA
-	db 24, RATTATA
+	db 24, MISDREAVUS
 	db 24, RATTATA
 	end_grass_wildmons
 
@@ -107,10 +107,10 @@ JohtoGrassWildMons:
 	; nite
 	db 20, GASTLY
 	db 21, GASTLY
-	db 22, MISDREAVUS ;GASTLY
+	db 22, GASTLY
 	db 22, RATTATA
-	db 23, RATTATA
-	db 24, RATTATA
+	db 23, MISDREAVUS
+	db 24, MISDREAVUS
 	db 24, RATTATA
 	end_grass_wildmons
 
@@ -135,9 +135,9 @@ JohtoGrassWildMons:
 	; nite
 	db 20, GASTLY
 	db 21, GASTLY
-	db 22, MISDREAVUS ;GASTLY
+	db 22, GASTLY
 	db 22, MISDREAVUS ;RATTATA
-	db 23, RATTATA
+	db 23, MISDREAVUS
 	db 24, RATTATA
 	db 24, RATTATA
 	end_grass_wildmons
@@ -163,9 +163,9 @@ JohtoGrassWildMons:
 	; nite
 	db 20, GASTLY
 	db 21, GASTLY
-	db 22, MISDREAVUS ;GASTLY
+	db 22, GASTLY
 	db 22, MISDREAVUS ;RATTATA
-	db 23, RATTATA
+	db 23, MISDREAVUS
 	db 24, RATTATA
 	db 24, RATTATA
 	end_grass_wildmons
@@ -191,9 +191,9 @@ JohtoGrassWildMons:
 	; nite
 	db 20, GASTLY
 	db 21, GASTLY
-	db 22, MISDREAVUS ;GASTLY
+	db 22, GASTLY
 	db 22, MISDREAVUS ;RATTATA
-	db 23, RATTATA
+	db 23, MISDREAVUS
 	db 24, RATTATA
 	db 24, RATTATA
 	end_grass_wildmons
@@ -219,9 +219,9 @@ JohtoGrassWildMons:
 	; nite
 	db 20, GASTLY
 	db 21, GASTLY
-	db 22, MISDREAVUS ;GASTLY
+	db 22, GASTLY
 	db 22, MISDREAVUS ;RATTATA
-	db 23, RATTATA
+	db 23, MISDREAVUS
 	db 24, RATTATA
 	db 24, RATTATA
 	end_grass_wildmons
@@ -247,9 +247,9 @@ JohtoGrassWildMons:
 	; nite
 	db 20, GASTLY
 	db 21, GASTLY
-	db 22, MISDREAVUS ;GASTLY
+	db 22, GASTLY
 	db 22, MISDREAVUS ;RATTATA
-	db 23, RATTATA
+	db 23, MISDREAVUS
 	db 24, RATTATA
 	db 24, RATTATA
 	end_grass_wildmons
@@ -275,9 +275,9 @@ JohtoGrassWildMons:
 	; nite
 	db 20, GASTLY
 	db 21, GASTLY
-	db 22, MISDREAVUS ;GASTLY
+	db 22, GASTLY
 	db 22, MISDREAVUS ;RATTATA
-	db 23, RATTATA
+	db 23, MISDREAVUS
 	db 24, RATTATA
 	db 24, RATTATA
 	end_grass_wildmons
@@ -1332,7 +1332,7 @@ JohtoGrassWildMons:
 	db 4, EKANS
 	db 5, RATTATA
 	db 7, BELLSPROUT
-	db 6, MAREEP ;HOPPIP
+	db 6, HOPPIP
 	db 7, PIDGEY
 	db 7, MAREEP ;HOPPIP
 	db 7, HOPPIP
@@ -1438,7 +1438,7 @@ JohtoGrassWildMons:
 	db 5, BELLSPROUT
 	db 5, GROWLITHE
 	db 5, VULPIX ;PIDGEY
-	db 6, PIDGEY
+	db 6, VULPIX ;PIDGEY
 	db 6, PIDGEY
 	; day
 	db 4, PIDGEY
@@ -1455,7 +1455,7 @@ JohtoGrassWildMons:
 	db 5, HOOTHOOT
 	db 5, HOUNDOUR ;HOOTHOOT
 	db 5, GASTLY
-	db 5, HOUNDOUR ;GASTLY
+	db 5, GASTLY
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_37
@@ -1467,7 +1467,7 @@ JohtoGrassWildMons:
 	db 16, VULPIX ;GROWLITHE
 	db 15, PIDGEOTTO
 	db 15, LEDIAN
-	db 15, LEDIAN
+	db 15, VULPIX ;LEDIAN
 	; day
 	db 13, PIDGEY
 	db 14, GROWLITHE
@@ -1550,8 +1550,8 @@ JohtoGrassWildMons:
 	db 15, MAREEP ;RATTATA
 	db 16, RATICATE
 	db 15, ARBOK
-	db 16, FEAROW
 	db 16, MANKEY ;FEAROW
+	db 16, FEAROW
 	; day
 	db 13, EKANS
 	db 14, SPEAROW

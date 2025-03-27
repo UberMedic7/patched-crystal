@@ -1,11 +1,11 @@
 -What is this?
 
-A very simple FAQ to help you know the project more.
+A very simple FAQ to get to know what this project is about.
 
 -What is Pokemon Patched Crystal?
 
 Pokemon Patched Crystal is a romhack of Pokemon Crystal which doesnt drastically alter the game's
-content and gameplay but instead it improves upon it with bugfixes and Quality of Life features that fit
+content and gameplay but instead it enhances it with bugfixes and Quality of Life features that fit
 today's standarts, the series setting and theming.
 
 -So what's in it then?
@@ -13,9 +13,9 @@ today's standarts, the series setting and theming.
 Here's a full feature list:
 
 The game's original bugs and glitches have been fixed, most notable fixes are all pokeballs working
-as intented, item working correctly, no Arbitrary Code Execution, no battle glitches/bugs and many more issues have been sorted.
+as intented, item working correctly, no Arbitrary Code Execution, no battle glitches/bugs and many more issues have been resolved.
 
-You can obtain all 251 pokemon without the need to do trades with other people, version exclusives can now
+You can obtain all 251 pokemon without the need to do trades with other people. Version exclusives can now
 be found in the wild and certain evolution methods have been altered. (More info below)
 
 The time when the sun rises and sets has been tweaked so that players
@@ -29,11 +29,11 @@ The starter pokemon sprites that are being shown before picking one are now in c
 
 There's a Move Reminder NPC at Move Deleter's home to teach your pokemon forgotten leveling moves.
 
-Catching pokemon yields EXP to pokemon that took part in the battle like in later games.
+Catching pokemon yields EXP to pokemon that took part in the battle.
 
 Berry and apricorn trees now drop between 1 to 5 berries/apricorns.
 
-Kurt will make balls instantly so you dont need to wait an entire day for them.
+Kurt will make balls instantly instead of taking an entire day.
 
 The Lucky Number Show now occurs daily instead of weekly.
 
@@ -43,9 +43,9 @@ The move tutor in Goldenrod City appears every Monday in addition to his usual s
 
 You can challenge all Gym Leaders to a rematch as many times as you want after unlocking MT. Silver.
 
-Both Gym Leaders and the Elite Four now have stronger teams for rematches much like the remakes.
+Both Gym Leaders and the Elite Four now have stronger teams for rematches much like the Gen 2 remakes.
 
-The levels of teams regular trainers use in rematches after you complete the Power Plant quest now match the highest possible in the remakes.
+The levels of teams regular trainers use in rematches after you complete the Power Plant quest now match the highest possible ones in the Gen 2 remakes.
 
 The trainer card now includes an extra page for Kanto badges and all 16 badges are now shown in color.
 
@@ -59,17 +59,17 @@ All 251 pokemon now have uniquely colored sprites in menus and the overworld, sh
 
 You are able to release EGGs.
 
-An extra text speed option "Instant" is added.
+An "Instant" text scrolling speed option is added.
 
-Both the Battle Tower and Buena's Password feature additional rewards.
+Both the Battle Tower and Buena's Password feature additional new rewards.
 
 Carrie, the girl that enables Mystery Gift at the Goldenrod Department Store will offer
 to Mystery Gift with you once per day. The item range is exactly the same as the real
 Mystery Gift along with the ever rare Mirage and Bluesky mail (decorations are excluded at the moment)
 
-Smashing rocks now has a chance to give you certain items, including fossils. (More info below)
+By smashing rocks there's a chance to find certain items, including fossils. (More info below)
 
-Easily change the Real Time Clock by pressing DOWN + B on the title screen.
+Easily change the Real Time Clock by pressing A on the Pokegear Calendar page or DOWN + B on the title screen.
 
 Weather conditions in battle are now shown if active via an appropriate icon in the move selection menu.
 
@@ -77,23 +77,23 @@ Time of day status is also shown with an icon in the main battle menu.
 
 A pocket PC is given to you as a reward from the programmer in the Celadon Mansion after completing the Pokedex.
 
--You said i can capture all 251 pokemon, what about Celebi and the Kanto legendaries?
+-Since all 251 pokemon can be obtained, what is the way to catch Celebi and the Kanto legendaries?
 
-The Celebi event has been restored. It will occur normally once you beat the Elite Four like in the Virtual Console release.
+The Celebi event has been restored. It will occur normally once you beat the Elite Four like in the Virtual Console release of Pokemon Crystal.
 
 The Kanto legendaries have been placed onto the overworld like in later games, Mew included.
 
 -What about fossil pokemon?
 
-By smashing rocks there's a chance you'll get one of three (3) Kanto fossils. You can revive them the same way you did
+By smashing rocks there's a chance you'll get one of three (3) Kanto fossils. You can revive them the same way you can
 in Gen 1 at the corresponding NPC which is in the Ruins of Alph Research Center.
 
--You said altered evolution methods, what about that?
+-What are the altered evolution methods?
 
 Certain pokemon now evolve thanks to the item "Link Cord" which acts like an evolutionary stone much like in Pokemon Legends: Arceus.
 More info on the new encounters and ways to evolve pokemon can be found in the "Encounters and Evolutions.txt" file.
 
--Got the full list of Battle Tower rewards?
+-What is the full list of Battle Tower rewards?
 
 MasterBall x1
 Max Revive x5
@@ -117,35 +117,36 @@ Twisted Spoon x1
 Normal Box x1
 Gorgeous Box x1
 
--Can you Trade/Battle in this?
+-Can you Link Trade and/or Battle in this romhack?
 
 Yes but also no. Trading works 100% and fixes for bugs/mishaps that occur during Link Battles have been implemented, however Link Battles
-should be between two (2) Patched Crystal games not one (1) Patched Crystal game and any Gen 2 vanilla game as there will
+should be between two (2) Patched Crystal games, NOT one (1) Patched Crystal game and any Gen 2 vanilla game as there will
 be desynchronization/corruption due to these changes.
 
 -What about other kinds of compatibility?
 
-PPC can be linked with both Stadium games just fine either on real hardware or emulation.
+PPC can be used with both Stadium games just fine either on real hardware or emulation.
 Save editors like PokeHex or PKSM still work, although certain pokemon will be marked as "illegal" considering the new encounter and evolution methods.
+PPC is fully compatible with the PokemonGB Online Trades project.
 PPC saves are also compatible with certain features hosted on the bluemoonfalls.com website.
 
--When i check my items in PokeHex i get an invalid item warning and/or when i do the same in the Stadium games i carry a "Teru-Sama" item, whats that about?
+-When i check my items in PokeHex i get an invalid item warning and/or when i do the same in the Stadium games i carry a "Teru-Sama" or a "Blank" item, whats that about?
 
 You probably carry the new "Link Cord" item or the new "Pocket PC" key item. Since these items dont exist in the original game, the instances above treat them
 as the original "Teru-Sama" item which is nothing but a memory placeholder with no actual use so be wary of that.
 
--I lost my Pocket PC key item, how can i get it back?
+-My Pocket PC key item is gone, how can i get it back?
 
 You can get a new one by simply talking to the Programmer in Celadon Mansion.
 
--What else you got in store for us?
+-What else can be expected from this project?
 
 Right now, i consider this romhack "complete" The initial goal of this project was to create my dream version of Crystal and it
-reached that status but new vanilla-friendly features, tweaks or maintenance updates are not off the table.
+reached that status but new vanilla friendly features, tweaks or maintenance updates are not off the table.
 
 -Why updates roll in such irregular rate?
 
-Its not on purpose. Life gets in the way and im not a fully fledged programmer, all my work is based on very helpful guides and individuals
+Its not on purpose. Life gets in the way and im not a fully fledged programmer, most of my work is based on very helpful guides and individuals
 and whenever something cool comes up i take the safe approach and try it out internaly until im certain its fit for a release.
 
 -Any way i can help?

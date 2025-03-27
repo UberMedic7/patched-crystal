@@ -26,10 +26,7 @@ _OakText7::
 	done
 
 _ClockTimeMayBeWrongText::
-	text "The clock's time"
-	line "may be wrong."
-
-	para "Please reset the"
+	text "Please reset the"
 	line "time."
 	prompt
 
@@ -1067,8 +1064,8 @@ _PokegearAskWhoCallText::
 	done
 
 _PokegearPressButtonText::
-	text "Press any button"
-	line "to exit."
+	text "Press the A button"
+	line "to reset the clock"
 	done
 
 _PokegearAskDeleteText::
