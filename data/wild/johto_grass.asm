@@ -1340,7 +1340,7 @@ JohtoGrassWildMons:
 	db 4, WOOPER
 	db 5, RATTATA
 	db 7, BELLSPROUT
-	db 6, ZUBAT
+	db 6, MAREEP ;ZUBAT
 	db 7, HOOTHOOT
 	db 7, GASTLY
 	db 7, MISDREAVUS ;GASTLY
@@ -1566,7 +1566,7 @@ JohtoGrassWildMons:
 	db 15, RATICATE
 	db 16, GOLBAT
 	db 15, MARILL
-	db 16, GOLBAT
+	db 16, FLAAFFY ;GOLBAT
 	db 16, GOLBAT
 	end_grass_wildmons
 
@@ -1594,7 +1594,7 @@ JohtoGrassWildMons:
 	db 16, RATICATE
 	db 17, VENONAT
 	db 17, RATICATE
-	db 17, VENOMOTH
+	db 17, FLAAFFY ;VENOMOTH
 	db 17, VENOMOTH
 	end_grass_wildmons
 

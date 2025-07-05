@@ -12,11 +12,11 @@ today's standarts, the series setting and theming.
 
 Here's a full feature list:
 
-The game's original bugs and glitches have been fixed, most notable fixes are all pokeballs working
+The game's original bugs and glitches have been fixed, most notable fixes are: all pokeballs working
 as intented, item working correctly, no Arbitrary Code Execution, no battle glitches/bugs and many more issues have been resolved.
 
-You can obtain all 251 pokemon without the need to do trades with other people. Version exclusives can now
-be found in the wild and certain evolution methods have been altered. (More info below)
+You can obtain all 251 pokemon without the need to do trades with other Gen 2 games.
+Version exclusives can now be found in the wild and certain evolution methods have been altered. (More info below)
 
 The time when the sun rises and sets has been tweaked so that players
 can take advantage out of all three parts of the day in the game.
@@ -29,7 +29,7 @@ The starter pokemon sprites that are being shown before picking one are now in c
 
 There's a Move Reminder NPC at Move Deleter's home to teach your pokemon forgotten leveling moves.
 
-Catching pokemon yields EXP to pokemon that took part in the battle.
+Catching pokemon yields EXP your pokemon that took part in the battle.
 
 Berry and apricorn trees now drop between 1 to 5 berries/apricorns.
 
@@ -41,11 +41,11 @@ The Trainer House battle no longer has a daily limit.
 
 The move tutor in Goldenrod City appears every Monday in addition to his usual schedule.
 
-You can challenge all Gym Leaders to a rematch as many times as you want after unlocking MT. Silver.
+You can challenge all Gym Leaders to a rematch as many times as you want after unlocking access to MT. Silver.
 
-Both Gym Leaders and the Elite Four now have stronger teams for rematches much like the Gen 2 remakes.
+Both Gym Leaders and the Elite Four now have stronger teams for rematches much alike to Gen 2 remakes.
 
-The levels of teams regular trainers use in rematches after you complete the Power Plant quest now match the highest possible ones in the Gen 2 remakes.
+The levels of teams regular trainers use in rematches after you complete the Power Plant quest now match the highest possible ones like in the Gen 2 remakes.
 
 The trainer card now includes an extra page for Kanto badges and all 16 badges are now shown in color.
 
@@ -57,7 +57,7 @@ After encountering the legendary beasts at the Burnt Tower, Entei and Raikou are
 
 All 251 pokemon now have uniquely colored sprites in menus and the overworld, shiny variants and shiny egg included.
 
-You are able to release EGGs.
+You are now able to release EGGs.
 
 An "Instant" text scrolling speed option is added.
 
@@ -139,15 +139,15 @@ as the original "Teru-Sama" item which is nothing but a memory placeholder with 
 
 You can get a new one by simply talking to the Programmer in Celadon Mansion.
 
--What else can be expected from this project?
+-What else can be expected from this project in the future?
 
 Right now, i consider this romhack "complete" The initial goal of this project was to create my dream version of Crystal and it
 reached that status but new vanilla friendly features, tweaks or maintenance updates are not off the table.
 
--Why updates roll in such irregular rate?
+-Why updates roll at such irregular rate?
 
 Its not on purpose. Life gets in the way and im not a fully fledged programmer, most of my work is based on very helpful guides and individuals
-and whenever something cool comes up i take the safe approach and try it out internaly until im certain its fit for a release.
+so whenever something cool comes up i take the safe approach and try it out internaly until im certain its fit for a release.
 
 -Any way i can help?
 

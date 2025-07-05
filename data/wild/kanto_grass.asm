@@ -419,7 +419,7 @@ KantoGrassWildMons:
 	db 15, VENOMOTH
 	db 15, ZUBAT
 	db 18, RATICATE
-	db 18, RATICATE
+	db 18, PRIMEAPE ;RATICATE
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_10_NORTH

@@ -5,97 +5,100 @@ This romhack fixes the generation 2 bugs and adds certain tweaks and features bu
 !!NOTICE!!
 
 It is highly recommended to make backups of your saves when trying out a new release.
-Saving to the 2nd floor of a pokemon center is advised for the best results.
+Saving to the 2nd floor of a pokemon center is advised.
 
 You can now join The Uber Archive Discord server for the latest release, news or submit any bug reports!
 
 https://discord.com/invite/5Xu54kDeJS
 
 
-!Changelog!
+~~~Retail Changelog~~~
 
+~~3.13c~~
 
-~~~Retail~~~
+-Fixed an issue where the "MEWTWO" color option as a Pokedex theme would not work
+
+-More tweaks on wild pokemon encounters
+
+-Documentation touchup
 
 ~~3.13b~~
 
-Tweaked encounter rates of certain pokemon - subject to change
+-Tweaked encounter rates of certain pokemon
 
-You can now change the in-game time by pressing A while on the Pokegear Calendar menu, the Title Screen method still remains
+-You can now change the in-game time by pressing A while on the Pokegear Calendar menu, the Title Screen method still remains
 
 ~~3.13a~~
 
-The "CREDITS" selection on the main menu is now the "ABOUT" selection
+-The "CREDITS" selection on the main menu is now the "ABOUT" selection
 
-Yet more proofreading on Gym Leader dialog
+-More proofreading on Gym Leader dialog
 
-Updated the outdoor sprite system to prevent incorrect NPC sprites in the overworld
+-Updated the outdoor sprite system to prevent incorrect NPC sprites in the overworld
 
 ~~3.13~~
 
-The move tutor in Goldenrod City now also appears every Monday
+-The move tutor in Goldenrod City now appears every Monday also
 
-After encountering the legendary beasts at the Burnt Tower, Entei and Raikou are registered as SEEN on the Pokedex
+-After encountering the legendary beasts at the Burnt Tower, Entei and Raikou are registered as SEEN on the Pokedex
 
-Fixed a bug where getting a Mystery Gift from Carrie would lock you out of your daily entry in Buena's Password and vice versa
+-Fixed a bug where getting a Mystery Gift from Carrie would lock you out of your daily entry in Buena's Password and vice versa
 
-The morning time of day uses its own icon for being indicated on the battle menu
+-The morning time of day uses its own icon for being indicated on the battle menu
 
-The levels of teams regular trainers use in rematches after you complete the Power Plant quest now match the highest possible based on the remakes
+-The levels of teams regular trainers use in rematches after you complete the Power Plant quest now match the highest possible based on the remakes
 
-The Ghost/Dark type scaling swap patch has been ommited from this release
+-The Ghost/Dark type scaling swap patch is now ommited
 
 ~~3.12c~~
 
-Fixed a bug where Belly Drum would cause the user to faint instead of halving their HP
+-Fixed a bug where Belly Drum would cause the user to faint instead of halving their HP
 
-Changed the pokemon that appears on the CREDITS menu
+-Changed the pokemon that appears on the CREDITS menu
 
 ~~3.12b~~
 
-Fixed a bug where if you refuse to get an EGG from the Day Care, no new EGG would generate
+-Fixed a bug where if you refuse to get an EGG from the Day Care, no new EGG would generate
 
-Fixed a bug where the options menu failed to clear joypad state on initialization
+-Fixed a bug where the options menu failed to clear joypad state on initialization
 
-You can now see the romhack version number in the new CREDITS selection on the Main Menu
+-You can now see the romhack version number in the new CREDITS selection on the Main Menu
 
-If you somehow lose the Pocket PC item, speak with the Programmer at Celadon Mansion to get the item again
+-If you somehow lose the Pocket PC item, speak with the Programmer at Celadon Mansion to get the item again
 
 ~~3.12a~~
 
-Pokedex entries and other references now use Meters and Kilograms replacing Feet and Pounds for measuring Height and Weight respectively
+-Pokedex entries and other references now use Meters and Kilograms replacing Feet and Pounds for measuring Height and Weight respectively
 (Thanks to: https://github.com/gthb-nax/naxcrystal/commit/1fd4e5decaa52b9aac9b966cdd699fd98f88509f )
 
-An extra text speed option "Instant" was added
+-An extra text speed option "Instant" was added
 
-Battle Tower rewards have been slightly altered (List of rewards updated in FAQ.txt)
+-Battle Tower rewards have been slightly tweaked (List of rewards updated in FAQ.txt)
 
-Speak to the Programmer at Celadon Mansion after completing the Pokedex for a special reward
+-Speak to the Programmer at Celadon Mansion after completing the Pokedex for a special reward
 
-Both Ghost and Dark type attacks are reverted to their original scaling behavior. The swapped scaling is now included in a seperate optional patch file
+-Both Ghost and Dark type attacks are reverted to their original scaling behavior. The swapped scaling is now included in a seperate optional patch file
 
-The .cia package is ommited from this and any future release until a proper Link patch is created
+-The .cia package is ommited from this and any future release until a proper Link patch is created
 
 ~~3.12~~
 
-Mystery Gift via NPC implementation. Carrie, the girl that enables Mystery Gift at the
+-Mystery Gift via NPC implementation. Carrie, the girl that enables Mystery Gift at the
 Goldenrod Department Store will also offer to Mystery Gift with you once per day.
 The item range is exactly the same as the real Mystery Gift along with
 the ever rare Mirage and Bluesky mail (decorations are excluded at the moment)
 
-Considering the above change, Buena's Password rewards have changed
+-Considering the above change, Buena's Password rewards have changed
 with the removal of the mail rewards. In addition, the MysteryBerry has been swappped
 with the MiracleBerry in the rewards list
 
-Wild encounter rates have been adjusted due to certain pokemon not appearing
+-Wild encounter rates have been adjusted due to certain pokemon not appearing
 
-TM09 - Psych Up is now sold on the Celadon Deptartment Store (3F) instead of Saffron Mart
+-TM09 - Psych Up is now sold on the Celadon Deptartment Store (3F) instead of Saffron Mart
 
 ~~3.11~~
 
--Reverted the additional encounters of the following pokemon:
-(you can still find said pokemon, only the extra encounters included by me were removed)
-Scyther, Natu, Xatu, Teddiursa, Phanpy
+-Tweaked certain wild pokemon encounter rates
 
 -Squirtle is now found only on Route 34 (Surf)
 
@@ -163,13 +166,13 @@ in the pokedex registration
 -Fixed a few typos and inaccuracies in text
 
 -Fixed a bug where sometimes the shiny version of a caught pokemon would be shown instead of the default one
-in the pokedex registration
+in pokedex registration
 
 ~~3.10~~
 
 -Fixed an issue with the Day/Nite icon on the Bug-Catching Contest battle menu
 
--Fixed an issue with Tackle's impact image not displaying fully
+-Fixed an issue with Tackle's impact effect not displaying fully
 
 -Totodile is now found during the day on Route 31 instead of Cherrygrove City
 
@@ -186,7 +189,7 @@ you need to have Ho-Oh in your party. Eusine will also hint towards it too
 -Prof. Oak's dialog was tweaked to also mention the Elite Four being available for rematch with
 stronger teams
 
--A custom Crystal SGB border (unknown author) is now bundled
+-A custom Crystal SGB border (unknown author) is now bundled with every release
 
 ~~3.9c~~
 
@@ -257,8 +260,8 @@ game, this has been fixed and the original schedule is in effect
 
 -You can now choose one of many unique colors for your Pokedex UI in its SELECT menu
 
--All 251 pokemon now have uniquely colored sprites in menus while using FLY and the day care, shiny
-variants and shiny egg included.
+-All 251 pokemon now have uniquely colored sprites in menus and in the overworld.
+Shiny variants and shiny egg included.
 
 -Cooltrainer Rose's dialog has been tweaked
 
@@ -270,7 +273,7 @@ variants and shiny egg included.
 
 -Fixed some text wrapping issues with some Gym Leader's dialog
 
--Adjusted ".gitignore" list so that cloning the repo and compiling works
+-Tweaked ".gitignore" list so that cloning the repo and compiling works
 
 ~~3.6a~~
 
@@ -308,7 +311,7 @@ said rewards are the following (subject to change):
 -Move Deleter's House is now Move Expert's House since it now also hosts the Move Reminder
 to teach your pokemon forgotten moves! (Thanks to TPP, Polished Crystal and Another PKMN Crystal Remaster open source code)
 
--Both the Battle Tower and Buena's Password are packed with additional new rewards (subject to change)! (Huge thanks to Pret Discord for helping out!)
+-Both the Battle Tower and Buena's Password are packed with additional new rewards (subject to change) (Huge thanks to Pret Discord for helping out!)
 
 -You can now see the shiny variant of a pokemon in the pokedex by pressing SELECT.(Another thanks to Pret for its github tutorial)
 
@@ -328,11 +331,12 @@ to teach your pokemon forgotten moves! (Thanks to TPP, Polished Crystal and Anot
 
 -The Lucky number show is now daily instead of weekly.
 
--Poliwhirl and Slowpoke now need to use the Link Cord item to evolve into Politoed and Slowking respectively.
+-Poliwhirl and Slowpoke now evolve into Politoed and Slowking respectively
+with the use of the Link Cord item
 
--Trainer card now has a Kanto badges page and both pages use colored badges.
+-Trainer card now has a page for Kanto badges and both pages use colored badges.
 
--Weather conditions are shown with an icon during move selection while active.
+-Weather conditions are shown with an icon during move selection if any is in effect.
 
 -Pokemon acquire EXP when you capture a wild pokemon like in later games.
 
@@ -342,11 +346,11 @@ to teach your pokemon forgotten moves! (Thanks to TPP, Polished Crystal and Anot
 
 ~~3.3~~
 
--Restored some random encounters.
+-Tweaked some random encounters.
 
 ~~3.2~~
 
--Fixed a bug where after a rematch with Lt. Surge the game would crash.
+-Fixed a crash after a rematch with Lt. Surge
 
 -Fixed a bug with Up-grade not being usable to evolve Porygon into Porygon2
 
@@ -374,7 +378,7 @@ the Goldenrod Department Store 4F
 Haunter, Machoke, Graveler, Kadabra, Seadra, Onix, Scyther
 
 -Up-grade now acts as an evolutionary stone too to evolve Porygon into Porygon2
-and it can now be bought at Saffron Mart
+it can now be bought at Saffron Mart
 
 -Pichu, Cleffa, Igglypuff and Togepi, Golbat and Chansey now evolve via happiness again
 
@@ -420,18 +424,18 @@ and it can now be bought at Saffron Mart
 
 -The held item Twisted Spoon can now be bought at the Mahogany town mart after Team Rocket is defeated
 
--Fixed the Squirtle encounter in Whirl Islands B2F
+-Restored the Squirtle encounter in Whirl Islands B2F
 
 -Setting the time during a new game now properly shows the part of day of the chosen hour
 
 
-~~~Beta~~~
+~~~Beta Changelog~~~
 
 ~~1.1a - 1.1b ~~
 
 -Fixed a bug which caused the game to crash while entering Victory Road
 
--Fixed a few glitches of the trainer that rewards you with Mew at Mt. Moon Square
+-Fixed a few glitches with the trainer that rewards you with Mew at Mt. Moon Square
 
 -Removed the Legendary Birds from the "Often flees" group
 

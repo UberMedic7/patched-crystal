@@ -37,10 +37,16 @@ Vulpix can be found during the morning and day at:
 Route 36, 37, 7, 8 
 
 Mankey can be found rarely during the morning and mostly during the day at:
-Route 42, 9 
+Route 42, 9
 
-Mareep can be found mostly during the morning and day at:
+Primeape can now be found rarely during the night at:
+Route 9
+
+Mareep can be found at:
 Route 32, 42, 43 
+
+Flaaffy can now be found during the night at:
+Route 42, 43
 
 Girafarig can be found rarely during the morning and day at:
 Route 43 
