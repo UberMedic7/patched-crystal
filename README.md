@@ -12,7 +12,7 @@ Below you gonna find all the info you need:
 
 [**Latest version**][release]
 
-[**Discord server of the project**][archive]
+[**Discord server**][archive]
 
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
