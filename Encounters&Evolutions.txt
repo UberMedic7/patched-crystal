@@ -1,4 +1,4 @@
-This is a list of encounters that are added and/or adjusted and how certain pokemon evolve.
+This is a list of encounters that are added or adjusted and how certain pokemon evolve.
 
 
 ~~Improved Encounters~~
@@ -31,7 +31,7 @@ Slugma can be found during the day at:
 Burned Tower B1F 
 
 
-~~Missing Encounters~~
+~~Restored Encounters~~
 
 Vulpix can be found during the morning and day at:
 Route 36, 37, 7, 8 
@@ -51,8 +51,7 @@ Route 42, 43
 Girafarig can be found rarely during the morning and day at:
 Route 43 
 
-Remoraid and Octillery can be found at bodies of water using both rods and SURF.
-Swarms still occur.
+Remoraid and Octillery can be found at most bodies of water using both rods and SURF.
 
 Chikorita can be found only during morning at:
 Route 31 
@@ -69,16 +68,16 @@ Ilex Forest
 Charmander can be found only during the night at:
 Burned Tower B1F
 
-Squirtle can be found at all times at:
+Squirtle can be found at:
 Route 34 (Surf)
 
-Omanyte, Kabuto and Aerodactyl's fossils can be found by smashing rocks and revived
+Omanyte, Kabuto and Aerodactyl fossils can be found by smashing rocks and revived
 at the Ruins of Alph Research Center.
 
 
 ~~Legendaries~~
 
-Celebi can be found through its special event after beating the Elite Four
+Celebi can be found through the GS Ball event after beating the Elite Four
 
 Zapdos can be found at:
 Rock Tunnel

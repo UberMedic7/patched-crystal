@@ -1,18 +1,30 @@
 Pokemon Patched Crystal
 
-This romhack fixes the generation 2 bugs and adds certain tweaks and features but still retain the original gameplay and features.
+This romhack fixes the generation 2 bugs and adds certain tweaks and features but still retain the original gameplay and feel of the game.
 
-!!NOTICE!!
-
-It is highly recommended to make backups of your saves when trying out a new release.
+It is highly recommended to make backups of your saves before trying out a new release.
 Saving to the 2nd floor of a pokemon center is advised.
 
-You can now join The Uber Archive Discord server for the latest release, news or submit any bug reports!
+You can now join The Uber Archive Discord server for the latest release, news or report any bugs.
 
 https://discord.com/invite/5Xu54kDeJS
 
 
 ~~~Retail Changelog~~~
+
+~~3.13d~~
+
+-Fixed a bug where Mania is using the wrong dialogue when the player tries to return Shuckie with no other Pokémon
+
+-Fixed a bug where Lock-On and Mind Reader don't always bypass Fly and Dig
+
+-Fixed an issue where setting a different Pokedex color theme would not apply on the UNOWN and SEARCH modes
+
+-Tweaked the Moon Ball bugfix
+
+-The Scientist trainer class no longer uses the Team Rocket battle theme music
+
+-More documentation tweaks
 
 ~~3.13c~~
 
@@ -20,7 +32,7 @@ https://discord.com/invite/5Xu54kDeJS
 
 -More tweaks on wild pokemon encounters
 
--Documentation touchup
+-Documentation tweaks
 
 ~~3.13b~~
 

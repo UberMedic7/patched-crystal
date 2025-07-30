@@ -6738,8 +6738,17 @@ INCLUDE "engine/battle/move_effects/future_sight.asm"
 INCLUDE "engine/battle/move_effects/thunder.asm"
 
 CheckHiddenOpponent:
-	xor a
-	ret
+	ld a, BATTLE_VARS_SUBSTATUS5_OPP
+	call GetBattleVar
+	cpl
+	and 1 << SUBSTATUS_LOCK_ON
+	ret z
+
+ 	ld a, BATTLE_VARS_SUBSTATUS3_OPP
+ 	call GetBattleVar
+ 	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND
+ 	ret;xor a
+	;ret
 
 GetUserItem:
 ; Return the effect of the user's item in bc, and its id at hl.
