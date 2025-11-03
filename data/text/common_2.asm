@@ -1576,7 +1576,7 @@ _OakText5::
 
 _AboutText1::
 	text "Pokemon Patched"
-	line "Crystal 3.13d"
+	line "Crystal 3.13e"
 
 	para "For more detailed"
 	line "info about this"

@@ -56,20 +56,20 @@ Remoraid and Octillery can be found at most bodies of water using both rods and 
 Chikorita can be found only during morning at:
 Route 31 
 
-Cyndaquil can be found only during the night at:
-Dark cave (Violet city entrance) 
-
 Totodile can be found only during the day at:
 Route 31
+
+Cyndaquil can be found only during the night at:
+Dark cave (Violet city entrance) 
 
 Bulbasaur can be found only during morning and night at:
 Ilex Forest
 
-Charmander can be found only during the night at:
-Burned Tower B1F
-
 Squirtle can be found at:
 Route 34 (Surf)
+
+Charmander can be found only during the night at:
+Burned Tower B1F
 
 Omanyte, Kabuto and Aerodactyl fossils can be found by smashing rocks and revived
 at the Ruins of Alph Research Center.

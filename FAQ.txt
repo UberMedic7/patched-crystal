@@ -4,22 +4,22 @@ A very simple FAQ to get to know what this project is about.
 
 -What is Pokemon Patched Crystal?
 
-Pokemon Patched Crystal is a romhack of Pokemon Crystal which doesnt drastically alter the game's
-content and gameplay but instead it enhances it with bugfixes and Quality of Life features that fit
-today's standards, the series' setting and theming.
+Pokemon Patched Crystal is a romhack of Pokemon Crystal which doesnt drastically
+alter the game's content and gameplay but instead it enhances it with bugfixes
+and true Quality of Life features that fit the series' setting and theming.
 
 -So what's in it then?
 
 Here's a full feature list:
 
 The game's original bugs and glitches have been fixed, most notable fixes are: all pokeballs working
-as intented, held items working correctly, no Arbitrary Code Execution, no battle glitches/bugs and many other issues.
+as intented, held items working correctly, no Arbitrary Code Execution, various battle glitches/bugs and many other issues.
 
-You can obtain all 251 pokemon without the need to do trades with other Gen 1 or Gen 2 games.
+You can obtain all 251 pokemon without the need to do trades with other Gen 1 and Gen 2 games.
 Version exclusives can now be found in the wild and certain evolution methods have been altered. (More info below)
 
-The time when the sun rises and sets has been tweaked so that players
-can take advantage out of all three parts of the day in the game.
+The time when the sun rises and sets has been tweaked to be more immersive
+and so that players can take advantage out of all three parts of the day in the game.
 
 TMs are not consumed after being used.
 
@@ -45,9 +45,9 @@ You can challenge all Gym Leaders to a rematch as many times as you want after u
 
 Both Gym Leaders and the Elite Four now have stronger teams for rematches like in the Gen 2 remakes.
 
-The levels of teams regular trainers use in rematches after you complete the Power Plant quest now match the highest possible ones like in the Gen 2 remakes.
+The levels of teams regular trainers use in rematches after you complete the Power Plant quest now match the highest possible ones of the Gen 2 remakes.
 
-The trainer card now includes an extra page for Kanto badges and all 16 badges are now fully colored.
+The trainer card now includes an extra page for Kanto badges and all 16 badges are now in color.
 
 You can now see the shiny variant of a pokemon in the pokedex by pressing SELECT.
 
@@ -95,15 +95,12 @@ More info on the new encounters and ways to evolve pokemon can be found in the "
 
 -What is the full list of Battle Tower rewards?
 
-MasterBall x1
-Max Revive x5
-Max Potion x5
-Full Restore x5
 Hp Up x5
 Protein x5
 Iron x5
 Carbos x5
 Calcium x5
+Max Revive x5
 Rare Candy x5
 Nugget x5
 PP Up x5
@@ -116,16 +113,16 @@ Light Ball x1
 Twisted Spoon x1
 Normal Box x1
 Gorgeous Box x1
+Master Ball x1
 
 -Can you Link Trade and/or Battle in this romhack?
 
 Yes but also no. Trading works 100% and fixes for bugs/glitches that occur during Link Battles have been implemented, however Link Battles
-should be between two (2) Patched Crystal games, NOT one (1) Patched Crystal game and any Gen 2 vanilla game as there will
-be desynchronization/corruption due to these changes.
+should be between two (2) Patched Crystal games only, otherwise there will be desynchronization and corruption due to these changes.
 
 -What about other kinds of compatibility?
 
-PPC can be used with both Stadium games just fine either on real hardware or emulation.
+PPC can be used with both Stadium games just fine either on real hardware or emulation (Except for the GB Tower).
 Save editors like PokeHex or PKSM still work, although certain pokemon will be marked as "illegal" due to the new encounter and evolution methods.
 PPC is fully compatible with the PokemonGB Online Trades project.
 PPC saves are also compatible with certain features hosted on the bluemoonfalls.com website.
@@ -141,8 +138,8 @@ You can get a new one by simply talking to the Programmer in Celadon Mansion.
 
 -What else can be expected from this project in the future?
 
-Right now, this romhack is considered "complete" The initial goal of this project was to create my dream version of Crystal and it
-reached that status but new vanilla friendly features, tweaks or maintenance updates are not off the table.
+Right now, this romhack is considered "complete" as the initial goal of this project was to create my dream version of Crystal and it
+reached that status. However, new vanilla friendly features, tweaks or maintenance updates are not off the table.
 
 -Why updates roll at such irregular rate?
 
@@ -151,5 +148,5 @@ and whenever something cool comes up i take the safe approach and try it out int
 
 -Any way i can help?
 
-You can always report back any bugs, throw your suggestions, etc. You can reach out to me through a discord server.
+You can always report any bugs, throw your suggestions, etc. You can reach out to me through a discord server.
 https://discord.com/invite/5Xu54kDeJS

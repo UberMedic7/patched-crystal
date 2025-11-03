@@ -134,28 +134,26 @@ Script_WalkToBattleTowerElevator:
 Script_GivePlayerHisPrize:
     setval BATTLETOWERACTION_1C
     special BattleTowerAction
-    random 20 ; any number really
+    random 18 ; any number really
     ifequal 0, MasterBall
     ifequal 1, MaxRevive
-    ifequal 2, MaxPotion
-	ifequal 3, FullRestore
-	ifequal 4, HpUp
-	ifequal 5, Protein
-	ifequal 6, Iron
-	ifequal 7, Carbos
-	ifequal 8, Calcium
-	ifequal 9, RareCandy
-	ifequal 10, Nugget
-	ifequal 11, PP_Up
-	ifequal 12, DireHit
-	ifequal 13, GuardSpec
-	ifequal 14, BerserkGene
-	ifequal 15, ScopeLens
-	ifequal 16, LuckyPunch
-	ifequal 17, LightBall
-	ifequal 18, TwistedSpoon
-	ifequal 19, NormalBox
-	ifequal 20, GorgeousBox
+	ifequal 2, HpUp
+	ifequal 3, Protein
+	ifequal 4, Iron
+	ifequal 5, Carbos
+	ifequal 6, Calcium
+	ifequal 7, RareCandy
+	ifequal 8, Nugget
+	ifequal 9, PP_Up
+	ifequal 10, DireHit
+	ifequal 11, GuardSpec
+	ifequal 12, BerserkGene
+	ifequal 13, ScopeLens
+	ifequal 14, LuckyPunch
+	ifequal 15, LightBall
+	ifequal 16, TwistedSpoon
+	ifequal 17, NormalBox
+	ifequal 18, GorgeousBox
 	end
 	
 MasterBall:
@@ -174,28 +172,6 @@ MaxRevive:
 	iftrue Script_YourPackIsStuffedFull
     getitemname STRING_BUFFER_3, MAX_REVIVE
     giveitem MAX_REVIVE, 5
-    writetext Text_PlayerGotFive
-    setval BATTLETOWERACTION_1D
-    special BattleTowerAction
-    closetext
-    end
-
-MaxPotion:
-	checkitem MAX_POTION, 99
-	iftrue Script_YourPackIsStuffedFull
-    getitemname STRING_BUFFER_3, MAX_POTION
-    giveitem MAX_POTION, 5
-    writetext Text_PlayerGotFive
-    setval BATTLETOWERACTION_1D
-    special BattleTowerAction
-    closetext
-    end
-	
-FullRestore:
-    checkitem FULL_RESTORE, 99
-	iftrue Script_YourPackIsStuffedFull
-    getitemname STRING_BUFFER_3, FULL_RESTORE
-    giveitem FULL_RESTORE, 5
     writetext Text_PlayerGotFive
     setval BATTLETOWERACTION_1D
     special BattleTowerAction

@@ -12,6 +12,18 @@ https://discord.com/invite/5Xu54kDeJS
 
 ~~~Retail Changelog~~~
 
+~~3.13e~~
+
+-Tweaked the pokedex entries of Lickitung and Doduo to use the metric system in their description
+
+-Fixed a bug where ChooseWildEncounter doesn't really validate the wild Pokémon species
+
+-Fixed a bug where RandomUnseenWildMon always picks a morning Pokémon species
+
+-Fixed a bug where BattleAnimCmd_ClearObjs only clears the first 6⅔ objects
+
+-Removed Max Potion and Full Restore as Battle Tower rewards
+
 ~~3.13d~~
 
 -Fixed a bug where Mania is using the wrong dialogue when the player tries to return Shuckie with no other Pokémon

@@ -7,4 +7,4 @@
 
 	page "way. If it sees an"
 	next "enemy, it runs"
-	next "away at 60 mph.@"
+	next "away at 96 km/h.@"
