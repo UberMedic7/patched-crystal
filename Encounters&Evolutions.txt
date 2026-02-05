@@ -1,34 +1,5 @@
-This is a list of encounters that are added or adjusted and how certain pokemon evolve.
-
-
-~~Improved Encounters~~
-
-Skarmory can be found during the day at:
-Route 38
-
-Smeargle can be found during the day at:
-Sprout Tower 3F
-
-Mantine can be found at:
-Cianwood, Olivine City (Surf)
-
-Corsola can be found at:
-Route 34, Olivine City (Surf)
-
-Larvitar can be found rarely during the day at:
-Route 42
-
-Misdreavus can be found rarely during the night at:
-Sprout/Tin Tower, Route 31, 32
-
-Houndour can be found rarely during the day and mostly during the night at:
-Route 36, 37
-
-Murkrow can be found during the night at:
-Route 38 
-
-Slugma can be found during the day at:
-Burned Tower B1F 
+This is a list of encounters that are added or adjusted
+and how certain pokemon evolve in Pokemon Patched Crystal.
 
 
 ~~Restored Encounters~~
@@ -39,13 +10,13 @@ Route 36, 37, 7, 8
 Mankey can be found rarely during the morning and mostly during the day at:
 Route 42, 9
 
-Primeape can now be found rarely during the night at:
+Primeape can be found rarely during the night at:
 Route 9
 
 Mareep can be found at:
 Route 32, 42, 43 
 
-Flaaffy can now be found during the night at:
+Flaaffy can be found during the night at:
 Route 42, 43
 
 Girafarig can be found rarely during the morning and day at:
@@ -75,24 +46,55 @@ Omanyte, Kabuto and Aerodactyl fossils can be found by smashing rocks and revive
 at the Ruins of Alph Research Center.
 
 
+~~Additional Encounters~~
+
+Skarmory can be found during the day at:
+Route 38
+
+Smeargle can be found during the day at:
+Sprout Tower 3F
+
+Mantine can be found at:
+Cianwood, Olivine City (Surf)
+
+Corsola can be found at:
+Route 34, Olivine City (Surf)
+
+Larvitar can be found rarely during the day at:
+Route 42
+
+Misdreavus can be found rarely during the night at:
+Sprout/Tin Tower, Route 31, 32
+
+Houndour can be found rarely during the day and mostly during the night at:
+Route 36, 37
+
+Murkrow can be found during the night at:
+Route 38 
+
+Slugma can be found during the day at:
+Burned Tower B1F 
+
+
 ~~Legendaries~~
 
 Celebi can be found through the GS Ball event after beating the Elite Four
 
-Zapdos can be found at:
+Zapdos can be found as an overworld encounter at:
 Rock Tunnel
 
-Moltres can be found at:
+Moltres can be found as an overworld encounter at:
 Victory Road
 
-Articuno can be found at:
+Articuno can be found as an overworld encounter at:
 Ice Path
 
-Mewtwo can be found at:
+Mewtwo can be found as an overworld encounter at:
 Silver Cave
 
-Mew is found in the 4th secret Unown inscription chamber at the Ruins of Alph. To access this chamber
-you need to have Ho-Oh in your party.
+Mew can be found as an overworld encounter at:
+The 4th secret Unown inscription chamber at the Ruins of Alph.
+To access this chamber you need to have Ho-Oh in your party.
 
 
 ~~Evolutions~~

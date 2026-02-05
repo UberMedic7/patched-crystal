@@ -440,7 +440,7 @@ wBattleScriptBufferAddress:: dw
 
 wTurnEnded:: db
 
-	ds 1
+	;ds 1
 wIsConfusionDamage:: db
 
 wPlayerStats::

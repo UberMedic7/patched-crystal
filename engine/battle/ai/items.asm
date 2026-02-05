@@ -558,8 +558,6 @@ EnemyUsedFullRestore:
 	call AI_HealStatus
 	ld a, FULL_RESTORE
 	ld [wCurEnemyItem], a
-	xor a
-	ld [wEnemyConfuseCount], a
 
 FullRestoreContinue:
 	ld de, wCurHPAnimOldHP
@@ -739,6 +737,7 @@ AI_HealStatus:
 	res SUBSTATUS_CONFUSED, [hl]
 	ld hl, wEnemySubStatus5
 	res SUBSTATUS_TOXIC, [hl]
+	farcall CalcEnemyStats
 	ret
 
 EnemyUsedXAccuracy:

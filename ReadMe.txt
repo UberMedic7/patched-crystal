@@ -1,16 +1,37 @@
 Pokemon Patched Crystal
 
-This romhack fixes the generation 2 bugs and adds certain tweaks and features but still retain the original gameplay and feel of the game.
+This romhack fixes bugs found in generation 2 and adds certain tweaks and
+features while still retaining the original gameplay and feel of the game.
 
 It is highly recommended to make backups of your saves before trying out a new release.
-Saving to the 2nd floor of a pokemon center is advised.
+Saving to the 2nd floor of a pokemon center before updating is advised.
 
-You can now join The Uber Archive Discord server for the latest release, news or report any bugs.
+You can join the Uber Archive Discord server for the latest release, news or report any bugs.
 
 https://discord.com/invite/5Xu54kDeJS
 
 
 ~~~Retail Changelog~~~
+
+~~3.14~~
+
+Fixed a bug were the catch rate formula breaks for Pokémon with max HP > 341
+
+Fixed a bug where the AI use of Full Heal or Full Restore does not cure Attack or Speed drops from burn or paralysis
+
+Fixed a bug where Metal Powder can increase damage taken with boosted (Special) Defense
+
+Fixed a bug where "Cautious" AI may fail to discourage residual moves
+
+Fixed a bug where the AI does not discourage Future Sight when it's already been used
+
+Fixed a bug where the AI makes a false assumption about CheckTypeMatchup
+
+Fixed a bug where Confusion (status condition) damage is affected by type-boosting items and Explosion/Self-Destruct doubling
+
+Properly fixed the bugs involving Thick Club and Light Orb
+
+Restored the "Hall of Fame Master" title that can be acquired after 200 Hall of Fame entries
 
 ~~3.13e~~
 
@@ -173,7 +194,7 @@ in the pokedex registration
 
 -Reverted changes to "Makefile" to restore Mystery gift compatibility
 
--You are now allowed to release EGGs via the PC
+-You are now able to release EGGs via the PC
 
 ~~3.10a~~
 
@@ -481,7 +502,7 @@ it can now be bought at Saffron Mart
 
 -Patched Crystal now uses the latest pokecrystal repo as base (as of 21/02/2018)
 
-[For developers]: If you run the command make patched-crystal it will build patched-crystal.gbc
+[For developers]: If you run the command "make patched-crystal" it will build patched-crystal.gbc
 
 -Fixed the bugs of the followind items: Thick Club, Light Ball, Metal Powder
 
@@ -610,36 +631,36 @@ Route 38
 -Slugma can now be found on Johto during the day at:
 Burned Tower B1F
 
--Vulpix can be found during the morning and day at:
+-Vulpix can now be found during the morning and day at:
 Route 36, 37, 7, 8
 
--Mankey can be found rarely during the morning and mostly during the day at:
+-Mankey can now be found rarely during the morning and mostly during the day at:
 Route 42, 9
 
--Mareep can be found mostly during the morning and day at:
+-Mareep can now be found mostly during the morning and day at:
 Route 32, 42, 43
 
--Girafarig can be found rarely during the morning and day at:
+-Girafarig can now be found rarely during the morning and day at:
 Route 43
 
--Remoraid and Octillery can mostly be found at bodies of water using both rods and SURF besides swarms semi done
+-Remoraid and Octillery can now be found at bodies of water using both rods and SURF besides swarms semi done
 
--Chikorita can be found only during morning at:
+-Chikorita can now be found only during morning at:
 Route 31
 
--Cyndaquil can be found only during the night at:
+-Cyndaquil can now be found only during the night at:
 Dark cave (Violet city entrance)
 
--Totodile can be found only during the day at:
+-Totodile can now be found only during the day at:
 Cherrygrove city (Water)
 
--Bulbasaur can be found only during morning and night at:
+-Bulbasaur can now be found only during morning and night at:
 Ilex Forest
 
--Charmander can be found only during the night at:
+-Charmander can now be found only during the night at:
 Burned Tower B1F
 
--Squirtle can be found at all times at:
+-Squirtle can now be found at at:
 Whirl Islands B2F
 
 -Omanyte and Kabuto can be found only during the night at:

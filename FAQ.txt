@@ -1,6 +1,6 @@
--What is this?
+-What is this text file for?
 
-A very simple FAQ to get to know what this project is about.
+A very simple FAQ so you can get to know what this project is about.
 
 -What is Pokemon Patched Crystal?
 
@@ -8,11 +8,11 @@ Pokemon Patched Crystal is a romhack of Pokemon Crystal which doesnt drastically
 alter the game's content and gameplay but instead it enhances it with bugfixes
 and true Quality of Life features that fit the series' setting and theming.
 
--So what's in it then?
+-What are the changes exactly?
 
 Here's a full feature list:
 
-The game's original bugs and glitches have been fixed, most notable fixes are: all pokeballs working
+The game's bugs and glitches have been fixed, most notable fixes are: all pokeballs working
 as intented, held items working correctly, no Arbitrary Code Execution, various battle glitches/bugs and many other issues.
 
 You can obtain all 251 pokemon without the need to do trades with other Gen 1 and Gen 2 games.
@@ -27,13 +27,13 @@ When picking up or receiving TMs as gifts the name of the move will also be show
 
 The starter pokemon sprites that are being shown before picking one are now in color.
 
-There's a Move Reminder NPC at Move Deleter's home to teach your pokemon forgotten leveling moves.
+There's a Move Reminder NPC at Move Deleter's house to teach your pokemon forgotten leveling moves.
 
-Catching pokemon yields EXP to your pokemon that took part in the battle.
+Catching pokemon yields EXP to pokemon that took part in the battle.
 
 Berry and apricorn trees now drop between 1 to 5 berries/apricorns.
 
-Kurt will make balls instantly instead of taking an entire day.
+Kurt will finish making balls instantly instead of taking an entire day.
 
 The Lucky Number Show is now daily instead of weekly.
 
@@ -41,17 +41,17 @@ The Trainer House battle no longer has a daily limit.
 
 The move tutor in Goldenrod City appears every Monday in addition to his usual schedule.
 
-You can challenge all Gym Leaders to a rematch as many times as you want after unlocking access to MT. Silver.
+You can challenge all Gym Leaders to a rematch as many times as you want after getting access to MT. Silver.
 
-Both Gym Leaders and the Elite Four now have stronger teams for rematches like in the Gen 2 remakes.
+Both Gym Leaders and the Elite Four now have stronger teams for rematches similarly to the Gen 2 remakes.
 
-The levels of teams regular trainers use in rematches after you complete the Power Plant quest now match the highest possible ones of the Gen 2 remakes.
+The levels of teams regular trainers use in rematches after you complete the Power Plant quest are matching the ones in the Gen 2 remakes.
 
 The trainer card now includes an extra page for Kanto badges and all 16 badges are now in color.
 
 You can now see the shiny variant of a pokemon in the pokedex by pressing SELECT.
 
-You can now choose one of many unique colors for your Pokedex UI in its SELECT menu.
+You can now choose one of many unique colors for the Pokedex UI in its SELECT menu.
 
 After encountering the legendary beasts at the Burnt Tower, Entei and Raikou are registered as SEEN on the Pokedex.
 
@@ -73,7 +73,7 @@ Easily change the Real Time Clock by pressing A on the Pokegear Calendar page or
 
 Weather conditions in battle are now shown if active via an appropriate icon in the move selection menu.
 
-Time of day status is also shown with an icon in the main battle menu.
+Time of day is also shown with an icon in the main battle menu.
 
 A pocket PC is given to you as a reward from the programmer in the Celadon Mansion after completing the Pokedex.
 
@@ -129,7 +129,7 @@ PPC saves are also compatible with certain features hosted on the bluemoonfalls.
 
 -When i check my items in PokeHex i get an invalid item warning and/or when i do the same in the Stadium games i carry a "Teru-Sama" or a "Blank" item, whats that about?
 
-You probably carry the new "Link Cord" item or the new "Pocket PC" key item. Since these items dont exist in the original game, the instances above treat them
+You probably carry the "Link Cord" item or the "Pocket PC" key item. Since these items dont exist in the original game, the instances above treat them
 as the original "Teru-Sama" item which is nothing but a memory placeholder with no actual use so be wary of that.
 
 -My Pocket PC key item is gone, how can i get it back?
