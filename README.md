@@ -1,8 +1,6 @@
 # Pokémon Patched Crystal
 
-This is a disassembly of Pokémon Patched crystal using [**the pokecrystal repo**][pokecrystal] as a base
-
-Below you gonna find all the info you need:
+This is a disassembly of Pokémon Patched Crystal using [**the pokecrystal repo**][pokecrystal] as a base
 
 [**FAQ**](FAQ.txt)
 
