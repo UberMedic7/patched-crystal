@@ -1526,7 +1526,7 @@ _MayRegisterItemText::
 _OakText1::
 	text "Hello! Sorry to"
 	line "keep you waiting!"
-
+if !DEF(_DEBUG)
 	para "Welcome to the"
 	line "world of #MON!"
 
@@ -1534,6 +1534,8 @@ _OakText1::
 
 	para "People call me the"
 	line "#MON PROF."
+	
+	endc
 	prompt
 
 _OakText2::
@@ -1576,7 +1578,7 @@ _OakText5::
 
 _AboutText1::
 	text "Pokemon Patched"
-	line "Crystal 3.14"
+	line "Crystal 3.15"
 
 	para "For more detailed"
 	line "info about this"

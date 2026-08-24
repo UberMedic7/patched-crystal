@@ -1,4 +1,4 @@
--What is this text file for?
+-What is this text file?
 
 A very simple FAQ so you can get to know what this project is about.
 
@@ -12,30 +12,30 @@ and true Quality of Life features that fit the series' setting and theming.
 
 Here's a full feature list:
 
-The game's bugs and glitches have been fixed, most notable fixes are: all pokeballs working
-as intented, held items working correctly, no Arbitrary Code Execution, various battle glitches/bugs and many other issues.
+A large number of bugs and glitches have been fixed, most notable fixes are: all pokeballs working
+as intented, held items working correctly, no Arbitrary Code Execution along with various battle glitches/bugs and many other issues.
 
 You can obtain all 251 pokemon without the need to do trades with other Gen 1 and Gen 2 games.
-Version exclusives can now be found in the wild and certain evolution methods have been altered. (More info below)
+Version exclusive pokemon can be found in the wild and certain evolution methods have been altered. (More info below)
 
-The time when the sun rises and sets has been tweaked to be more immersive
-and so that players can take advantage out of all three parts of the day in the game.
+The time when the sun rises and sets has been adjusted so that players can
+take advantage out of all three parts of the day in the game.
 
 TMs are not consumed after being used.
 
 When picking up or receiving TMs as gifts the name of the move will also be shown.
 
-The starter pokemon sprites that are being shown before picking one are now in color.
+The starter pokemon sprites that are being shown before picking one are in color.
 
 There's a Move Reminder NPC at Move Deleter's house to teach your pokemon forgotten leveling moves.
 
-Catching pokemon yields EXP to pokemon that took part in the battle.
+Catching pokemon yields EXP points.
 
-Berry and apricorn trees now drop between 1 to 5 berries/apricorns.
+Berry and apricorn trees drop between 1 to 5 berries/apricorns.
 
 Kurt will finish making balls instantly instead of taking an entire day.
 
-The Lucky Number Show is now daily instead of weekly.
+The Lucky Number Show is daily instead of weekly.
 
 The Trainer House battle no longer has a daily limit.
 
@@ -43,21 +43,23 @@ The move tutor in Goldenrod City appears every Monday in addition to his usual s
 
 You can challenge all Gym Leaders to a rematch as many times as you want after getting access to MT. Silver.
 
-Both Gym Leaders and the Elite Four now have stronger teams for rematches similarly to the Gen 2 remakes.
+Both Gym Leaders and the Elite Four have stronger teams for rematches similarly to the Gen 2 remakes.
 
 The levels of teams regular trainers use in rematches after you complete the Power Plant quest are matching the ones in the Gen 2 remakes.
 
-The trainer card now includes an extra page for Kanto badges and all 16 badges are now in color.
+The JP sprites of certain pokemon trainers and Jynx have been restored
 
-You can now see the shiny variant of a pokemon in the pokedex by pressing SELECT.
+The trainer card includes an extra page for Kanto badges and all 16 badges are in color.
 
-You can now choose one of many unique colors for the Pokedex UI in its SELECT menu.
+You can see the shiny variant of a pokemon in the pokedex by pressing SELECT.
+
+You can choose one of many unique colors for the Pokedex UI in its SELECT menu.
 
 After encountering the legendary beasts at the Burnt Tower, Entei and Raikou are registered as SEEN on the Pokedex.
 
-All 251 pokemon now have uniquely colored sprites in menus and the overworld, shiny variants and shiny egg included.
+All 251 pokemon have uniquely colored sprites in menus and the overworld, shiny variants and shiny egg included.
 
-You are now able to release EGGs.
+You are able to release EGGs.
 
 An "Instant" text scrolling speed option is added.
 
@@ -69,28 +71,28 @@ Mystery Gift along with the ever rare Mirage and Bluesky mail (decorations are e
 
 By smashing rocks there's a chance to find certain items, including fossils. (More info below)
 
-Easily change the Real Time Clock by pressing A on the Pokegear Calendar page or DOWN + B on the title screen.
+Easily change the Real Time Clock by pressing A on the Pokegear Calendar menu or DOWN + B on the title screen.
 
-Weather conditions in battle are now shown if active via an appropriate icon in the move selection menu.
+Weather conditions in battle are shown if active via an appropriate icon in the move selection menu.
 
 Time of day is also shown with an icon in the main battle menu.
 
 A pocket PC is given to you as a reward from the programmer in the Celadon Mansion after completing the Pokedex.
 
--Since all 251 pokemon can be obtained, what is the way to catch Celebi and the Kanto legendaries?
+-What is the way to catch Celebi and the Kanto legendaries?
 
-The Celebi event has been restored. It will occur normally once you beat the Elite Four like in the Virtual Console release of Pokemon Crystal.
+The Celebi event has been restored. It will occur normally once you beat the Elite Four like in the Virtual Console version of Pokemon Crystal.
 
-The Kanto legendaries have been placed onto the overworld, Mew included.
+The Kanto legendaries are placed onto the overworld, Mew included.
 
 -What about fossil pokemon?
 
-By smashing rocks there's a chance you'll get one of three (3) Kanto fossils. You can revive them the same way you can
+By smashing rocks there's a chance you'll get one of three Kanto fossils. You can revive them the same way you can
 in Gen 1 at the corresponding NPC which is in the Ruins of Alph Research Center.
 
 -What are the altered evolution methods?
 
-Certain pokemon now evolve thanks to the item "Link Cord" which acts like an evolutionary stone much like in a certain other game.
+Instead of trading certain pokemon to have them evolve, you can use the new item "Link Cord" which acts as an evolutionary stone.
 More info on the new encounters and ways to evolve pokemon can be found in the "Encounters and Evolutions.txt" file.
 
 -What is the full list of Battle Tower rewards?
@@ -118,18 +120,18 @@ Master Ball x1
 -Can you Link Trade and/or Battle in this romhack?
 
 Yes but also no. Trading works 100% and fixes for bugs/glitches that occur during Link Battles have been implemented, however Link Battles
-should be between two (2) Patched Crystal games only, otherwise there will be desynchronization and corruption due to these changes.
+should be between two Patched Crystal games only, otherwise there will be desynchronization and corruption.
 
 -What about other kinds of compatibility?
 
-PPC can be used with both Stadium games just fine either on real hardware or emulation (Except for the GB Tower).
+PPC is compatible with both Stadium games both on real hardware and emulation (Except for the GB Tower).
 Save editors like PokeHex or PKSM still work, although certain pokemon will be marked as "illegal" due to the new encounter and evolution methods.
-PPC is fully compatible with the PokemonGB Online Trades project.
-PPC saves are also compatible with certain features hosted on the bluemoonfalls.com website.
+PPC is fully compatible with the Pokemon GB Online Trades project.
+PPC save file is also compatible with certain features hosted on the bluemoonfalls.com website.
 
 -When i check my items in PokeHex i get an invalid item warning and/or when i do the same in the Stadium games i carry a "Teru-Sama" or a "Blank" item, whats that about?
 
-You probably carry the "Link Cord" item or the "Pocket PC" key item. Since these items dont exist in the original game, the instances above treat them
+You probably carry the "Link Cord" item or the "Pocket PC" key item. Since these items do not exist in the original game, the instances above treat them
 as the original "Teru-Sama" item which is nothing but a memory placeholder with no actual use so be wary of that.
 
 -My Pocket PC key item is gone, how can i get it back?

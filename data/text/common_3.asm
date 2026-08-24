@@ -7,6 +7,7 @@ _OakText7::
 	text "<PLAYER>, are you"
 	line "ready?"
 
+if !DEF(_DEBUG)
 	para "Your very own"
 	line "#MON story is"
 	cont "about to unfold."
@@ -23,6 +24,8 @@ _OakText7::
 
 	para "I'll be seeing you"
 	line "later!"
+	
+endc
 	done
 
 _ClockTimeMayBeWrongText::

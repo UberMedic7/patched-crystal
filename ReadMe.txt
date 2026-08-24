@@ -1,7 +1,7 @@
 Pokemon Patched Crystal
 
-This romhack fixes bugs found in generation 2 and adds certain tweaks and
-features while still retaining the original gameplay and feel of the game.
+This romhack fixes bugs found in the generation 2 game and adds certain tweaks
+and features while still retaining the original gameplay and feel.
 
 It is highly recommended to make backups of your saves before trying out a new release.
 Saving to the 2nd floor of a pokemon center before updating is advised.
@@ -12,6 +12,18 @@ https://discord.com/invite/5Xu54kDeJS
 
 
 ~~~Retail Changelog~~~
+
+~~3.15~~
+
+Increased the price of all evolutionary stones from 4000 to 8000 pokedollars
+
+Increased the price of Link Cord from from 4000 to 9000 pokedollars
+
+Fixed a bug where the AI does not discourage Nightmare if the player has any status condition
+
+Restored the original JP sprites for Jynx, Beauty, Female Swimmer, Fisherman, Sage and Medium
+
+Implemented features for the DEBUG build from the following guide: https://github.com/pret/pokecrystal/wiki/Essential-Debug-Tools
 
 ~~3.14~~
 
@@ -35,7 +47,7 @@ Restored the "Hall of Fame Master" title that can be acquired after 200 Hall of 
 
 ~~3.13e~~
 
--Tweaked the pokedex entries of Lickitung and Doduo to use the metric system in their description
+-Fixed the pokedex entries of Lickitung and Doduo to use the metric system in their description
 
 -Fixed a bug where ChooseWildEncounter doesn't really validate the wild Pokémon species
 
@@ -325,7 +337,7 @@ Shiny variants and shiny egg included.
 -Fixed an oversight where not all new rewards were included for the Battle Tower
 said rewards are the following (subject to change):
 
--MasterBall x1
+-Master Ball x1
 -Revive x5
 -Max Potion x5
 -Full Restore x5

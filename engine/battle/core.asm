@@ -3834,6 +3834,14 @@ TryToRunAwayFromBattle:
 	jr .print_inescapable_text
 
 .cant_run_from_trainer
+if DEF(_DEBUG)
+	call FaintEnemyPokemon
+	call WinTrainerBattle
+	call WaitSFX
+	call LoadTilemapToTempTilemap
+	scf
+	ret
+ENDC
 	ld hl, BattleText_TheresNoEscapeFromTrainerBattle
 
 .print_inescapable_text
