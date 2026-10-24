@@ -130,12 +130,6 @@ Carrie:
 	end
 	
 .AskSave
-	checkflag ENGINE_FOUGHT_IN_TRAINER_HALL_TODAY
-	writetext MysteryGift_SaveGame
-	yesorno
-	iffalse .Decline
-	special TryQuickSave
-	iffalse .Decline
 	writetext MysteryGiftLinkUp
 	playsound SFX_MOVE_DELETED
 	waitsfx
@@ -145,6 +139,7 @@ Carrie:
 	writetext MysteryGiftReceivedText
 	waitbutton
 	closetext
+	callasm MysterGiftSave
 	end
 	
 .NoRoom
@@ -296,8 +291,11 @@ MysteryGiftReceivedText:
 	text "Oh, we got"
 	line "some cool items!"
 	cont "Thank you."
-	
 	done
+	
+MysterGiftSave:
+	farcall SaveGameData
+	ret
 
 GoldenrodDeptStore5F_MapEvents:
 	db 0, 0 ; filler

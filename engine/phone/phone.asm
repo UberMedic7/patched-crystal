@@ -43,22 +43,22 @@ _CheckCellNum:
 	ret
 
 Phone_FindOpenSlot:
-	call GetRemainingSpaceInPhoneList
-	ld b, a
 	ld hl, wPhoneList
-.loop
-	ld a, [hli]
-	and a
-	jr z, .FoundOpenSpace
-	dec b
-	jr nz, .loop
-	xor a
-	ret
+    ld b, CONTACT_LIST_SIZE
 
-.FoundOpenSpace:
-	dec hl
-	scf
-	ret
+.loop
+    ld a, [hli]
+    and a
+    jr z, .FoundOpenSpace
+    dec b
+    jr nz, .loop
+    xor a
+    ret
+
+.FoundOpenSpace
+    dec hl
+    scf
+    ret
 
 GetRemainingSpaceInPhoneList:
 	xor a

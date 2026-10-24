@@ -1892,9 +1892,23 @@ HappinessCheckScript:
 	end
 	
 MysteryGiftGirl:
-	callasm MysteryGiftNPC
-	verbosegiveitem ITEM_FROM_MEM
-	end
+    callasm MysteryGiftNPC
+    ifequal 1, .decoration
+    verbosegiveitem ITEM_FROM_MEM
+    end
+.decoration
+	writetext MysteryGiftGirlDecorationText
+    playsound SFX_ITEM
+    waitsfx
+    promptbutton
+    end
+
+MysteryGiftGirlDecorationText:
+    text "You received a"
+    line "@"
+    text_buffer STRING_BUFFER_4
+    text "!"
+    done
 
 Movement_ContestResults_WalkAfterWarp:
 	step RIGHT

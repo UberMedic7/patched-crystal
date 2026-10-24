@@ -1,6 +1,6 @@
 Pokemon Patched Crystal
 
-This romhack fixes bugs found in the generation 2 game and adds certain tweaks
+This romhack fixes bugs found in the generation 2 game and adds tweaks
 and features while still retaining the original gameplay and feel.
 
 It is highly recommended to make backups of your saves before trying out a new release.
@@ -12,6 +12,17 @@ https://discord.com/invite/5Xu54kDeJS
 
 
 ~~~Retail Changelog~~~
+
+~~3.16~~
+
+[Experimental] The game can now run on Stadium 2's GB Tower.
+
+Mystery Gift from Carrie in Goldenrod Dept. Store now has a 50% chance to yield a random item
+from the already existing item rewards and 50% chance for a random decoration, including
+the innaccessable Tentacool/Unown doll and the Pikachu Bed. Once all decorations are acquired you will only receive
+gift items instead. In addition, the game now saves silently after any type of gift has been given, to prevent savescumming.
+
+You can now register all available phone numbers into your pokegear at once and this time, save compatibility is intact!
 
 ~~3.15~~
 

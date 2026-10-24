@@ -2098,9 +2098,11 @@ SECTION UNION "Miscellaneous WRAM 1", WRAMX
 
 ; Every previous SECTION UNION takes up 60 or fewer bytes,
 ; except the initial "mon buffer" one.
+	
+UNION
 	ds 60
 
-UNION
+NEXTU
 ; trainer data
 wSeenTrainerBank:: db
 wSeenTrainerDistance:: db
@@ -3234,9 +3236,7 @@ wParkBallsRemaining::
 wSafariBallsRemaining:: db
 wSafariTimeRemaining:: dw
 
-wPhoneList:: ds CONTACT_LIST_SIZE + 1
-
-	ds 22
+wPhoneList:: ds CONTACT_LIST_SIZE 
 
 wLuckyNumberShowFlag:: db
 	;ds 1

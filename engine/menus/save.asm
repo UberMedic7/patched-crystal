@@ -163,7 +163,7 @@ AddHallOfFameEntry:
 	call CloseSRAM
 	ret
 
-SaveGameData:
+SaveGameData::
 	call _SaveGameData
 	ret
 

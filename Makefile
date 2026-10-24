@@ -123,7 +123,7 @@ patched-crystal-debug_opt = -Cjv -t PM_CRYSTAL -i BYTE -n 1 -k 01 -l 0x33 -m 0x1
 
 pokecrystal_base         = us
 pokecrystal11_base       = us
-patched-crystal_base       = us
+patched-crystal_base       = eu
 pokecrystal_au_base      = us
 patched-crystal-debug_base   = dbg  
 pokecrystal_debug_base   = dbg
