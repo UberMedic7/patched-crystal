@@ -13,6 +13,10 @@ https://discord.com/invite/5Xu54kDeJS
 
 ~~~Retail Changelog~~~
 
+~~3.16a~~
+
+[Hotfix] Fixed a bug that caused trainers to have incorrect sprites/teams and crash the game.
+
 ~~3.16~~
 
 [Experimental] The game can now run on Stadium 2's GB Tower.
